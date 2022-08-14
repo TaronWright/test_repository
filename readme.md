@@ -3,4 +3,4 @@
 
 # This sentence is used to see how committing a change to git works
 
-# This sentence is for a new branch
+# This sentence is for a new branch, and lets see how it works.
