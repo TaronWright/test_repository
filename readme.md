@@ -2,3 +2,5 @@
 # For example the hashtag in the code means these sentences will display as a header.
 
 # This sentence is used to see how committing a change to git works
+
+# This sentence is for a new branch
